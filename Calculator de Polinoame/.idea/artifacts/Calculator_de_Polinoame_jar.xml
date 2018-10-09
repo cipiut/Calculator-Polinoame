@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Calculator de Polinoame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calculator_de_Polinoame_jar</output-path>
+    <root id="archive" name="Calculator de Polinoame.jar">
+      <element id="module-output" name="Calculator de Polinoame" />
+    </root>
+  </artifact>
+</component>
